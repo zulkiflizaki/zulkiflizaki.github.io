@@ -1,1 +1,22 @@
+.course-list-item .course-lecture {
+  font-size: 0.8rem;
+}
 
+.course-list-item .course-publication {
+  font-size: 0.8rem;
+}
+
+.course-year {
+  margin-top: 0.5rem;
+}
+
+.course-title-simple a {
+  color: #313131;
+  transition: color 0.6s ease;
+}
+
+.course-title-simple a:hover {
+  color: #0095eb;
+  text-decoration: none;
+  transition: color 0.6s ease;
+}
